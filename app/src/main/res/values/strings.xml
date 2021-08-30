@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HaVagas</string>
+
+
+    <string name="haVagasProjectName">HaVagas Project</string>
+    <string name="nameTv">Nome Completo</string>
+    <string name="nameHintEt">Nome completo</string>
+    <string name="emailTv">E-mail</string>
+    <string name="emailHintEt">email@email.com</string>
+    <string name="emailMarketingTextCb">Deseja receber e-mails com atualizações de oportunidades</string>
+    <string name="telefoneTv">Telefone</string>
+    <string name="cellphoneHintEt">(11) 3344-0499</string>
+    <string name="optionalCellphoneHintEt">(11) 99934-3454</string>
+    <string name="commercialTextRb">Comercial</string>
+    <string name="residentialTextRb">Residencial</string>
+    <string name="addCellphoneTextTv">Adicionar telefone celular</string>
+    <string name="sexTypeHint">Sexo</string>
+    <string name="sexMaleHintRb">Masculino</string>
+    <string name="femaleHintRb">Feminino</string>
+    <string name="birthdayTv">Data de nascimento</string>
+    <string name="birthdayHintEt">20/12/1990</string>
+    <string name="formationTv">Formação</string>
+    <string name="formationYearTv">Ano de formatura</string>
+    <string name="conclusionYear">Ano de conclusão</string>
+    <string name="instituicaoTv">Instituição</string>
+    <string name="instituicaoMestradoDoutoradoTv">Instituição</string>
+    <string name="tituloMonografiaTv">Título de monografia</string>
+    <string name="orientadorTv">Orientador</string>
+    <string name="InterestVagasTv">Vagas de interesse</string>
+    <string name="save">Salvar</string>
+    <string name="clear">Limpar</string>
+
+    <string-array name="formation">
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+</resources>
